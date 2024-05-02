@@ -2,7 +2,7 @@
 
 A simple and lightweight official Angular component for FusionCharts JavaScript charting library. angular-fusioncharts enables you to add JavaScript charts in your Angular application without any hassle.
 
-With the latest version of angular-fusioncharts@4.0.3, we are now supporting Angular 14 & Angular 15 applications as well which were not supported till angular-fusioncharts@4.0.0 The angular-fusioncharts 4.0.3 can be used with all the versions of FusionCharts till the v3.20.0.
+With the latest version of angular-fusioncharts@4.1.0, we are now supporting Angular 17 applications as well which were not supported till angular-fusioncharts@4.0.3 The angular-fusioncharts 4.1.0 can be used with all the versions of FusionCharts till the v3.23.0.
 
 ## [Demo](https://fusioncharts.github.io/angular-fusioncharts/)
 
